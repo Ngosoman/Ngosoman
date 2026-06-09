@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h4 align="center">Holla 👋I'm Tom Mwambingu [Ngosoman] .<br>Software Developer | Cybersecurity Enthusiast | Problem Solver.<br><br>About Me<br><br>Software Developer passionate about building impactful digital solutions<br><br>Cybersecurity Enthusiast with hands-on experience in Vulnerability Assessment, Ethical Hacking and Cloud Security.<br><br>Builder of real-world projects ranging from business systems and educational platforms to developer marketplaces<br><br>Interested in Technology, Innovation, Entrepreneurship, and Digital Transformation<br><br>⚡ Fun Fact:<br>As a developer, I create bugs. As a cybersecurity enthusiast, I investigate them like a detective and then fix them.</h4>
+<h4 align="center">Holla 👋I'm Tom Mwambingu [Ngosoman] .<br>Software Developer | Cybersecurity Enthusiast | Problem Solver.<br><br>About Me<br><br>Software Developer passionate about building impactful digital solutions<br><br>Cybersecurity Enthusiast with hands-on experience in Vulnerability Assessment, Ethical Hacking and Cloud Security.<br><br>Builder of real-world projects ranging from business systems and educational platforms to developer marketplaces<br><br>Interested in Technology, Innovation, Entrepreneurship, and Digital Transformation<br><br>⚡ Fun Fact:<br>As a developer, I create bugs. As a cybersecurity enthusiast, I investigate them like a detective then fix them.</h4>
 
 ###
 
